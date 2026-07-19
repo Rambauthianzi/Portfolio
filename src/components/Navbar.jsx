@@ -17,7 +17,7 @@ const Navbar = () => {
                 <a href="https://github.com/Rambauthianzi" target="_blank" rel="noopener noreferrer">
                     <FaGithub />
                 </a>
-                <a href="https://www.instagram.com/tee.rambau?igsh=MXg0cG9rZ3Vxa2lo&utm_source=qr" target="_blank" rel="noopener noreferrer">
+                <a href="" target="_blank" rel="noopener noreferrer">
                     <FaInstagram />
                 </a>
                 <a href="" target="_blank" rel="noopener noreferrer">
