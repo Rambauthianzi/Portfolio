@@ -35,7 +35,7 @@ const Hero = () => {
             initial="hidden"
             animate="visible" 
             className="my-2 max-w-xl py-6 font-light tracking-tighter">
-            I am a committed software engineer with a talent for designing robust and scalable software systems. With 1 year of practical experience, I have honed my skills in languages such as Python,Java script,HTML,CSS and frameworks like Node.js. I also have experience with database technologies like SQL. My goal is to leverage my expertise to create innovative software solutions that drive business growth and deliver exceptional user experiences.
+            As a detail oriented software engineer, I specialize in developing scalable and high performance software solutions. With my hands on experience, I focus on creating innovative systems that enhance efficiency and user satisfaction. I thrive on solving complex challenges and refining software to deliver seamless experiences. My approach blends technical expertise with a problem-solving mindset, ensuring that every solution is both practical and impactful.
             </motion.p>
           </div>
         </div>
